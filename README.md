@@ -4,9 +4,9 @@
 <h3 align="center">A passionate Full stack developer</h3>
 <img align="right" alt="coding" width="400" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently working on **Scala,Python, Springboot,Mern(NodeJs,MongoDB,Express,react))**
+- 🌱 I’m currently working on **Scala,Python,Go ,Kubernetes,Springboot,Mern(NodeJs,MongoDB,Express,react))**
 
-- 💬 Ask me about **react,Bootstrap,Mern Stack**
+- 💬 Ask me about **react,Bootstrap,Mern Stack,Golang**
 
 - 📫 How to reach me **jaiswalhiman1410@gmail.com**
 
