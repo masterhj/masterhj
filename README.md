@@ -1,7 +1,8 @@
 
 <h1 align="center">Hey 👋, I'm Himanshu</h1>
    <img src="https://github.com/xenonnn4w/xenonnn4w/blob/main/c490ca0a25bc300089e784e635ff465f.gif" height="300" width="1000"/>
-<h3 align="center">A passionate Full stack developer</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;ML+%26+AI+Enthusiast+%F0%9F%A4%96;Android+%26+Web+Builder+%F0%9F%8C%90;Open+Source+Contributor+%E2%AD%90" alt="Typing SVG" />
+
 <img align="right" alt="coding" width="400" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently working on **Scala,Python,Golang,Kubernetes,Springboot,Mern(NodeJs,   MongoDB,Express,  react))**
