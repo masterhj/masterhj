@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on **C,Scala,Python,Golang,Kubernetes,Springboot,Mern(NodeJs,   MongoDB,Express,  react))**
 
-- 💬 Ask me about **core C,react,Bootstrap,Mern Stack,Golang**
+- 💬 Ask me about **core C++,Python,react,Bootstrap,Mern Stack,Golang**
 
 - 📫 How to reach me **jaiswalhiman1410@gmail.com**
 
